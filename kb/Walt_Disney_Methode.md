@@ -63,6 +63,7 @@ Zusätzlich macht es Sinn - vor allem bei noch unerfahrenen Teams - einen **Beob
 [Methodenpool - Walt Disney Methode](https://methodenpool.salzburgresearch.at/methode/walt-disney-method/)
 
 [Kreativitätstechniken: Übersicht 20 genialer Tipps & Methoden](https://karrierebibel.de/kreativitaetstechniken/)
+
 [Technique Library. The Open University - Disney, Walter Elias](http://www.nlpuniversitypress.com/html/D30.html)
 
 # Quellen

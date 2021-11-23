@@ -5,7 +5,7 @@ author: Katjax08
 anrechnung: k
 ---
 
-Die **Walt-Disney-Methode**, welche nach ihrem Urheber [Walt Disney](https://de.wikipedia.org/wiki/Walt_Disney) benannt wurde, ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von [Robert B. Dilts](https://de.wikipedia.org/wiki/Robert_Dilts) im Jahr 1994 veröffentlicht[^1]. 
+Die **Walt-Disney-Methode**, welche nach ihrem Urheber [Walt Disney](https://de.wikipedia.org/wiki/Walt_Disney) benannt wurde, ist eine [Kreativitätstechnik](https://de.wikipedia.org/wiki/Kreativit%C3%A4tstechniken) auf Basis eines Rollenspiels. Dabei nehmen verschiedene Personen die Positionen eines „Träumers“, „Realisten“ und „Kritiker“ ein, um sich mit einem Problem auseinanderzusetzen. Die Methode wurde von [Robert B. Dilts](https://de.wikipedia.org/wiki/Robert_Dilts) veröffentlicht[^1]. 
 
 # Ursprung
 Walt Disney war berühmt für seine ehrgeizigen und kreativen Projekte, welche er sich ausgedacht als auch umgesetzt hat. Selbst fünfzig Jahre nach seinem Tod ist sein Name noch immer weltweit bekannt und schmückt eine Vielzahl von Filmen, Serien und Themenparks. 
@@ -13,10 +13,9 @@ Der Erfolg von Walt Disney lag wohl unter anderem daran, dass es für ihn schein
 >„If you can dream it, you can do it.“. 
 
 Und genau dieses berühmte Zitat zeigte sich auch beim Kreativitätsprozess der Walt Disney Company. Disney lies dabei drei verschiedene Räume für sein Team entsprechend gestalten, um verschiedene Denkprozesse freizusetzen: Einen Raum für die Träumer, einen für die Realisten und einen für die Kritiker[^3]. 
-Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickelte daraus im Jahr 1994 die Walt-Disney-Methode[^4]. 
+Robert B. Dilts modellierte diese Herangehensweise von Walt Disney und entwickelte daraus die Walt-Disney-Methode[^4]. 
 # Methode
-Die Methode besteht aus einem Rollenspiel mit drei verschiedenen Rollen: der Träumer, der Realist und der Kritiker. Zudem macht es bei unerfahrenen Gruppen Sinn noch einen Moderator beziehungsweise Beobachter mit einzubinden. Um jede Rolle ihrem Platz zu bieten, kann man beispielsweise 3 Stühle mit etwas Dekoration in verschiedene Ecken eines Raumes stellen oder am Boden eines Raumes jeweils drei Karten mit unterschiedlichen Farben legen[^5]. Dies kann die Haltung der Teilnehmer in der jeweiligen Rolle beeinflussen[^4] 
-Jede Rolle wird von jedem Teilnehmer mindestens einmal durchlaufen. 
+Die Methode besteht aus einem Rollenspiel mit drei verschiedenen Rollen: der Träumer, der Realist und der Kritiker. Zudem macht es bei unerfahrenen Gruppen Sinn noch einen Moderator beziehungsweise Beobachter mit einzubinden. Um jede Rolle ihrem Platz zu bieten, kann man beispielsweise drei Stühle mit etwas Dekoration in verschiedene Ecken eines Raumes stellen oder auf den Boden eines Raumes jeweils drei Karten mit unterschiedlichen Farben legen[^5]. Dies kann die Haltung der Teilnehmer in der jeweiligen Rolle beeinflussen[^4]. Jede Rolle wird von jedem Teilnehmer mindestens einmal durchlaufen. 
 # Ablauf
 ![image](https://user-images.githubusercontent.com/92786176/143034599-f9c1ddc9-b3c3-41dd-91fe-142c8182e966.png)
 
@@ -46,17 +45,24 @@ Zuletzt erhält die Position des **Kritikers** ihren Raum[^6]. Er ehält die aus
 Nachdem der Kritiker die Chancen und Risiken der Ideen aufgezeigt hat, geht diese Idee wieder zurück zum Träumer. Nun stellt sich die Frage, ob dies noch seinem "Traum" entspricht. Wenn der Träumer dies als seinen "Traum" weiterhin wiedererkennt, endet die Methode. Erkennt er diesen nicht, durchläuft man erneut den Prozess[^1].  
 
 ## Der Beobachter
-Zusätzlich macht es Sinn - vor allem bei noch unerfahrenen Teams - einen Beobachter mit einzubinden[^7]. Dieser wird nach jeder Rolle kurz mit einbezogen, um die Ergebnisse der jeweiligen Positionen neutral zu bewerten. Er kann dabei folgende Fragen stellen: 
+Zusätzlich macht es Sinn - vor allem bei noch unerfahrenen Teams - einen **Beobachter* mit einzubinden[^7]. Dieser wird nach jeder Rolle kurz mit einbezogen, um die Ergebnisse der jeweiligen Positionen neutral zu bewerten. Er kann dabei folgende Fragen stellen: 
 - Was fehlt noch?
 - Was brauchen Sie noch?
 - Welche Erwartungen sind noch nicht erfüllt?[^1]
 
 # Siehe auch
+[Design Thinking](Design_Thinking.md)
 
+[6-3-5 Methode](6_3_5_Methode.md)
+
+[Mindmapping](Mindmapping.md)
+
+[Word Cafe](World_Cafe.md)
 
 # Weiterführende Literatur
 [Methodenpool - Walt Disney Methode](https://methodenpool.salzburgresearch.at/methode/walt-disney-method/)
 
+[Kreativitätstechniken: Übersicht 20 genialer Tipps & Methoden](https://karrierebibel.de/kreativitaetstechniken/)
 [Technique Library. The Open University - Disney, Walter Elias](http://www.nlpuniversitypress.com/html/D30.html)
 
 # Quellen
